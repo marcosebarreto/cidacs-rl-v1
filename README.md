@@ -1,7 +1,5 @@
 # Cidacs-RL
 
-
-
 ## How to run
 
 After cloning this repository follow the steps:
@@ -12,7 +10,7 @@ After cloning this repository follow the steps:
 git clone https://github.com/gcgbarbosa/cidacs-rl-v1.git
 cd cidacs-rl-v1
 mkdir assets
-``` 
+```
 
 2. Inside the assets folder, download the datasets:
 
@@ -62,5 +60,3 @@ cat * > linkage.csv
 1. Pescarini JM, Williamson E, Nery JS, et al. **Effect of a conditional cash transfer programme on leprosy treatment adherence and cure in patients from the nationwide 100 Million Brazilian Cohort: a quasi-experimental study**. Lancet Infect Dis. 2020;20(5):618-627. doi:10.1016/S1473-3099(19)30624-3 [[link]](https://pubmed.ncbi.nlm.nih.gov/32066527/)
 
 2. de Andrade KVF, Silva Nery J, Moreira Pescarini J, et al. **Geographic and socioeconomic factors associated with leprosy treatment default: An analysis from the 100 Million Brazilian Cohort**. PLoS Negl Trop Dis. 2019;13(9):e0007714. Published 2019 Sep 6. doi:10.1371/journal.pntd.0007714 [[link]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6750604/)
-
-
